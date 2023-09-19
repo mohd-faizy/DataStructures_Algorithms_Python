@@ -64,7 +64,6 @@ Welcome to the Python Data Structures and Algorithms repository! This comprehens
   - [Design Patterns](#design-patterns)
   - [System Design](#system-design)
   - [Learning Resources](#learning-resources)
-      - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
 
 ## Introduction🌟
 
