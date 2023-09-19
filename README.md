@@ -64,6 +64,7 @@ Welcome to the Python Data Structures and Algorithms repository! This comprehens
   - [Design Patterns](#design-patterns)
   - [System Design](#system-design)
   - [Learning Resources](#learning-resources)
+      - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
 
 ## Introduction🌟
 
@@ -71,11 +72,11 @@ This repository serves as a comprehensive roadmap for mastering data structures,
 
 ## Basic Data Structures
 
-- Lists
-- Arrays
-- Stacks
-- Queues
-- Linked lists
+- **Lists**
+- **Arrays**
+- **Stacks**
+- **Queues**
+- **Linked lists**
 
 ## Basic Algorithms
 
@@ -92,15 +93,29 @@ This repository serves as a comprehensive roadmap for mastering data structures,
   - Counting Sort
   - Radix Sort
   - Bucket Sort
-- Recursion 
-- Backtracking
+- **Recursion**
+- **Backtracking**
 
 ## Advanced Data Structures
 
-- Hash Tables
-- Trees (Binary Trees, Binary Search Trees, AVL Trees, etc.)
-- Heaps (Min Heap, Max Heap)
-- Graphs (Graph Representation, Graph Traversal)
+- **Hash Tables**
+- **Trees**
+  - Binary Trees
+  - Binary Search Trees
+  - AVL Trees
+  - Red-Black Trees
+  - B-Trees
+-**Heaps**
+  - Min Heap 
+  - Max Heap 
+- **Graphs**
+  - Graph Representation
+  - Graph Traversal
+- **Tries**
+- **Segment Trees**
+- **Bloom Filters**
+- **Disjoint-Set (Union-Find)**
+
 
 ## Advanced Algorithms
 
@@ -159,13 +174,13 @@ This repository serves as a comprehensive roadmap for mastering data structures,
 
 ## Learning Resources
 
-Explore the following resources to further enhance your knowledge and skills:
+**Explore the following resources to further enhance your knowledge and skills:**
 
 - [Python Crash Course by Eric Matthes](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702) - A comprehensive and accessible introduction to Python programming, including data structures and algorithms.
 - [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7) - Utilizes a unique visual approach to teach algorithms, making them easier to understand and remember. Includes Python code examples.
 - [Data Structures and Algorithms in Python by Goodrich, Tamassia, and Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275) - Offers comprehensive and in-depth coverage of data structures and algorithms in Python, suitable for students familiar with Python basics.
 
-Additional resources:
+**Additional resources:**
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) - Provides tutorials, articles, and practice problems on various computer science topics, including data structures and algorithms in Python.
 - [LeetCode](https://leetcode.com/) - Offers a wide range of coding challenges and practice problems on data structures and algorithms, ideal for testing your skills and learning new concepts.
