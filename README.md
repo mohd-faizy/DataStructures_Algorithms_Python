@@ -53,7 +53,6 @@ Welcome to the Python Data Structures and Algorithms repository! This comprehens
 
 - [Python Data Structures and Algorithms🐍📊](#python-data-structures-and-algorithms)
   - [Introduction🌟](#introduction)
-- [Programming Roadmap](#programming-roadmap)
   - [Basic Data Structures](#basic-data-structures)
   - [Basic Algorithms](#basic-algorithms)
   - [Advanced Data Structures](#advanced-data-structures)
@@ -68,10 +67,6 @@ Welcome to the Python Data Structures and Algorithms repository! This comprehens
       - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
 
 ## Introduction🌟
-
-This repository provides a structured approach to learning and implementing data structures and algorithms in Python. Whether you're a beginner looking to build a strong foundation or an experienced developer aiming to sharpen your skills, you'll find valuable content here.
-
-# Programming Roadmap
 
 This repository serves as a comprehensive roadmap for mastering data structures, algorithms, and various advanced topics in computer science and software development. Whether you're a beginner looking to start your journey or an experienced developer aiming to brush up on your skills, this guide has something for everyone.
 
