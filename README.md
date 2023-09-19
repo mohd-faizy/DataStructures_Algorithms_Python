@@ -46,8 +46,9 @@
   </a>
 </div>
 
+## Introduction🌟
 
-Welcome to the Python Data Structures and Algorithms repository! This comprehensive resource serves as a roadmap and reference guide to help you master the world of data structures and algorithms in Python.
+This repository serves as a comprehensive roadmap for mastering data structures, algorithms, and various advanced topics in computer science and software development. Whether you're a beginner looking to start your journey or an experienced developer aiming to brush up on your skills, this guide has something for everyone.
 
 **Table of Contents**
 
@@ -64,10 +65,6 @@ Welcome to the Python Data Structures and Algorithms repository! This comprehens
   - [Design Patterns](#design-patterns)
   - [System Design](#system-design)
   - [Learning Resources](#learning-resources)
-
-## Introduction🌟
-
-This repository serves as a comprehensive roadmap for mastering data structures, algorithms, and various advanced topics in computer science and software development. Whether you're a beginner looking to start your journey or an experienced developer aiming to brush up on your skills, this guide has something for everyone.
 
 ## Basic Data Structures
 
