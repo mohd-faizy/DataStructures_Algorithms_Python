@@ -1,7 +1,7 @@
 # Python Data Structures and Algorithms🐍📊
 
 <p align="center">
-  <img src="#" alt="DSA-python-img" width=1000>
+  <img src="_img\dsa_banner.png" alt="DSA-python-img" width=1000>
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
   <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mohd-faizy/DataStructures-Algorithms-Python" alt="License">
   </a>
-  <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python">
+  <a href="https://github.com/mohd-faizy">
     <img src="https://img.shields.io/badge/author-mohd--faizy-red" alt="author">
   </a>
   <a href="https://img.shields.io/badge/Made%20with-markdown-blue">
@@ -46,6 +46,8 @@
   </a>
 </div>
 
+
+
 Welcome to the Python Data Structures and Algorithms repository! This comprehensive resource serves as a roadmap and reference guide to help you master the world of data structures and algorithms in Python.
 
 **Table of Contents**
@@ -64,6 +66,7 @@ Welcome to the Python Data Structures and Algorithms repository! This comprehens
   - [Design Patterns](#design-patterns)
   - [System Design](#system-design)
   - [Learning Resources](#learning-resources)
+      - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
 
 ## Introduction🌟
 
@@ -177,3 +180,17 @@ Additional resources:
 
 
 This structure should provide a clear and systematic organization of your topics related to data structures and algorithms in Python.
+
+********************************************************************************************************
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />
+
+#### $\color{skyblue}{\textbf{Connect with me:}}$
+
+[<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][linkedin]
+[<img align="left" src="https://cdn2.iconfinder.com/data/icons/whcompare-blue-green-web-hosting-1/425/cdn-512.png" width="32px"/>][Portfolio]
+
+[twitter]: https://twitter.com/F4izy
+[linkedin]: https://www.linkedin.com/in/mohd-faizy/
+[Portfolio]: https://mohdfaizy.com/
