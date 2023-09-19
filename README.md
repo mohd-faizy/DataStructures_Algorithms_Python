@@ -44,9 +44,6 @@
   <a href="https://img.shields.io/github/repo-size/mohd-faizy/DataStructures_Algorithms_Python">
     <img src="https://img.shields.io/github/repo-size/mohd-faizy/DataStructures_Algorithms_Python" alt="Size">
   </a>
-</div>
-
-
 
 Welcome to the Python Data Structures and Algorithms repository! This comprehensive resource serves as a roadmap and reference guide to help you master the world of data structures and algorithms in Python.
 
