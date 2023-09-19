@@ -5,26 +5,26 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python/stargazers">
-    <img src="https://img.shields.io/github/stars/mohd-faizy/DataStructures-Algorithms-Python?style=social" alt="Stars">
+  <a href="https://github.com/mohd-faizy/DataStructures_Algorithms_Python/stargazers">
+    <img src="https://img.shields.io/github/stars/mohd-faizy/DataStructures_Algorithms_Python?style=social" alt="Stars">
   </a>
-  <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python/network/members">
-    <img src="https://img.shields.io/github/forks/mohd-faizy/DataStructures-Algorithms-Python?style=social" alt="Forks">
+  <a href="https://github.com/mohd-faizy/DataStructures_Algorithms_Python/network/members">
+    <img src="https://img.shields.io/github/forks/mohd-faizy/DataStructures_Algorithms_Python?style=social" alt="Forks">
   </a>
-  <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python/issues">
-    <img src="https://img.shields.io/github/issues/mohd-faizy/DataStructures-Algorithms-Python" alt="Issues">
+  <a href="https://github.com/mohd-faizy/DataStructures_Algorithms_Python/issues">
+    <img src="https://img.shields.io/github/issues/mohd-faizy/DataStructures_Algorithms_Python" alt="Issues">
   </a>
-  <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/mohd-faizy/DataStructures-Algorithms-Python" alt="License">
+  <a href="https://github.com/mohd-faizy/DataStructures_Algorithms_Python/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/mohd-faizy/DataStructures_Algorithms_Python" alt="License">
   </a>
-  <a href="https://github.com/mohd-faizy">
+  <a href="https://github.commohd-faizy">
     <img src="https://img.shields.io/badge/author-mohd--faizy-red" alt="author">
   </a>
   <a href="https://img.shields.io/badge/Made%20with-markdown-blue">
     <img src="https://img.shields.io/badge/Made%20with-markdown-blue" alt="Made with Markdown">
   </a>
-  <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python">
-    <img src="https://img.shields.io/github/languages/top/mohd-faizy/DataStructures-Algorithms-Python" alt="Language">
+  <a href="https://github.com/mohd-faizy/DataStructures_Algorithms_Python">
+    <img src="https://img.shields.io/github/languages/top/mohd-faizy/DataStructures_Algorithms_Python" alt="Language">
   </a>
   <a href="https://img.shields.io/badge/platform-jupyter%20labs-blue">
     <img src="https://img.shields.io/badge/platform-jupyter%20labs-blue" alt="Platform">
@@ -32,17 +32,17 @@
   <a href="https://img.shields.io/maintenance/yes/2023">
     <img src="https://img.shields.io/maintenance/yes/2023" alt="Maintained">
   </a>
-  <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python">
-    <img src="https://img.shields.io/github/last-commit/mohd-faizy/DataStructures-Algorithms-Python" alt="Last Commit">
+  <a href="https://github.com/mohd-faizy/DataStructures_Algorithms_Python">
+    <img src="https://img.shields.io/github/last-commit/mohd-faizy/DataStructures_Algorithms_Python" alt="Last Commit">
   </a>
   <a href="https://opensource.com/resources/what-open-source">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love svg2">
   </a>
-  <a href="https://github.com/mohd-faizy/DataStructures-Algorithms-Python">
+  <a href="https://github.com/mohd-faizy/DataStructures_Algorithms_Python">
     <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" alt="Contributions Welcome">
   </a>
-  <a href="https://img.shields.io/github/repo-size/mohd-faizy/DataStructures-Algorithms-Python">
-    <img src="https://img.shields.io/github/repo-size/mohd-faizy/DataStructures-Algorithms-Python" alt="Size">
+  <a href="https://img.shields.io/github/repo-size/mohd-faizy/DataStructures_Algorithms_Python">
+    <img src="https://img.shields.io/github/repo-size/mohd-faizy/DataStructures_Algorithms_Python" alt="Size">
   </a>
 </div>
 
@@ -192,5 +192,5 @@ This structure should provide a clear and systematic organization of your topics
 [<img align="left" src="https://cdn2.iconfinder.com/data/icons/whcompare-blue-green-web-hosting-1/425/cdn-512.png" width="32px"/>][Portfolio]
 
 [twitter]: https://twitter.com/F4izy
-[linkedin]: https://www.linkedin.com/in/mohd-faizy/
-[Portfolio]: https://mohdfaizy.com/
+[linkedin]: https://www.linkedin.com/inmohd-faizy/
+[Portfolio]: https:/mohdfaizy.com/
