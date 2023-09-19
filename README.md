@@ -52,19 +52,20 @@ This repository serves as a comprehensive roadmap for mastering data structures,
 
 **Table of Contents**
 
-- [Python Data Structures and Algorithms🐍📊](#python-data-structures-and-algorithms)
+- [Python Data Structures and Algorithms🐍📊](#python-data-structures-and-algorithms) 
   - [Introduction🌟](#introduction)
-  - [Basic Data Structures](#basic-data-structures)
-  - [Basic Algorithms](#basic-algorithms)
-  - [Advanced Data Structures](#advanced-data-structures)
-  - [Advanced Algorithms](#advanced-algorithms)
-  - [Algorithmic Paradigms](#algorithmic-paradigms)
-  - [Complexity Analysis](#complexity-analysis)
-  - [Problem Solving and Practice](#problem-solving-and-practice)
-  - [Advanced Topics](#advanced-topics)
-  - [Design Patterns](#design-patterns)
-  - [System Design](#system-design)
-  - [Learning Resources](#learning-resources)
+  - [Basic Data Structures📚](#basic-data-structures)
+  - [Basic Algorithms🔍](#basic-algorithms)
+  - [Advanced Data Structures📈](#advanced-data-structures)
+  - [Advanced Algorithms🌐](#advanced-algorithms)
+  - [Algorithmic Paradigms✨](#algorithmic-paradigms)
+  - [Complexity Analysis📈](#complexity-analysis)
+  - [Problem Solving and Practice💡](#problem-solving-and-practice)
+  - [Advanced Topics🚀](#advanced-topics)
+  - [Design Patterns🧩](#design-patterns)
+  - [System Design🏗️](#system-design)
+  - [Learning Resources📚](#learning-resources)
+
 
 ## Basic Data Structures
 
